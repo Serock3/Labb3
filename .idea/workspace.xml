@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81023cc7-50d9-40d2-b54c-0c73160f8af6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/CrystalModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/Steg1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/CrystalView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/view/Steg2.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Labb3/Steg1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Labb3/modell/CrystalModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Steg1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/modell/CrystalModel.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model/CrystalModel.java" afterPath="$PROJECT_DIR$/src/model/CrystalModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/CrystalView.java" afterPath="$PROJECT_DIR$/src/view/CrystalView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/Steg2.java" afterPath="$PROJECT_DIR$/src/view/Steg2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,35 +26,38 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
-              <folding>
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Steg2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Steg2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/view/Steg2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="391">
+              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#882#1089#0" expanded="true" />
+                <element signature="e#1088#1089#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CrystalView.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CrystalView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/CrystalView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="-1031">
+              <caret line="51" column="152" lean-forward="false" selection-start-line="51" selection-start-column="152" selection-end-line="51" selection-end-column="152" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#2875#2876#0" expanded="true" />
+                <element signature="e#2925#2926#0" expanded="true" />
+                <element signature="e#4093#4094#0" expanded="true" />
+                <element signature="e#4154#4155#0" expanded="true" />
+                <element signature="e#5046#5047#0" expanded="true" />
+                <element signature="e#5071#5072#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,27 +66,12 @@
       <file leaf-file-name="CrystalModel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/CrystalModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="138" column="5" lean-forward="false" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+            <state relative-caret-position="499">
+              <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3454#3455#0" expanded="true" />
-                <element signature="e#3523#3524#0" expanded="true" />
-                <element signature="e#4180#4181#0" expanded="true" />
-                <element signature="e#4213#4214#0" expanded="true" />
-                <element signature="e#4255#4256#0" expanded="true" />
-                <element signature="e#4288#4289#0" expanded="true" />
-                <element signature="e#4334#4335#0" expanded="true" />
-                <element signature="e#4370#4371#0" expanded="true" />
-                <element signature="e#4416#4417#0" expanded="true" />
-                <element signature="e#4452#4453#0" expanded="true" />
-                <element signature="e#4494#4495#0" expanded="true" />
-                <element signature="e#4548#4549#0" expanded="true" />
-                <element signature="e#4581#4582#0" expanded="true" />
-                <element signature="e#4613#4614#0" expanded="true" />
-                <element signature="e#4648#4649#0" expanded="true" />
-                <element signature="e#4674#4675#0" expanded="true" />
-                <element signature="e#4806#4813#0" expanded="true" />
+                <element signature="e#4539#4540#0" expanded="true" />
+                <element signature="e#4571#4572#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,6 +90,7 @@
     <findStrings>
       <find>outsideCircle</find>
       <find>System.out.println</find>
+      <find>1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -159,7 +143,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,6 +194,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +246,7 @@
       </extension>
       <option name="MAIN_CLASS_NAME" value="view.Steg2" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="200" />
+      <option name="PROGRAM_PARAMETERS" value="600" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -646,6 +630,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="81023cc7-50d9-40d2-b54c-0c73160f8af6" name="Default" comment="" />
@@ -654,12 +641,13 @@
       <option name="presentableId" value="Default" />
       <updated>1485723395328</updated>
       <workItem from="1485768165340" duration="8613000" />
-      <workItem from="1485790842597" duration="14514000" />
+      <workItem from="1485790842597" duration="14555000" />
+      <workItem from="1485865696117" duration="18921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23127000" />
+    <option name="totallyTimeSpent" value="42089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
@@ -675,7 +663,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19210246" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19210246" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -688,7 +676,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3543223" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21558164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -704,7 +692,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -715,12 +703,57 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/model/Steg1.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Steg2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#882#1089#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/CrystalView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2875#2876#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#4093#4094#0" expanded="true" />
+            <element signature="e#4154#4155#0" expanded="true" />
+            <element signature="e#5046#5047#0" expanded="true" />
+            <element signature="e#5071#5072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/CrystalModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="138" column="5" lean-forward="false" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4539#4540#0" expanded="true" />
+            <element signature="e#4571#4572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Steg1.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -730,23 +763,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3454#3455#0" expanded="true" />
-            <element signature="e#3523#3524#0" expanded="true" />
-            <element signature="e#4180#4181#0" expanded="true" />
-            <element signature="e#4213#4214#0" expanded="true" />
-            <element signature="e#4255#4256#0" expanded="true" />
-            <element signature="e#4288#4289#0" expanded="true" />
-            <element signature="e#4334#4335#0" expanded="true" />
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4416#4417#0" expanded="true" />
-            <element signature="e#4452#4453#0" expanded="true" />
-            <element signature="e#4494#4495#0" expanded="true" />
-            <element signature="e#4548#4549#0" expanded="true" />
-            <element signature="e#4581#4582#0" expanded="true" />
-            <element signature="e#4613#4614#0" expanded="true" />
-            <element signature="e#4648#4649#0" expanded="true" />
-            <element signature="e#4674#4675#0" expanded="true" />
-            <element signature="e#4806#4813#0" expanded="true" />
+            <element signature="e#4539#4540#0" expanded="true" />
+            <element signature="e#4571#4572#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -755,10 +773,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -768,23 +783,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3454#3455#0" expanded="true" />
-            <element signature="e#3523#3524#0" expanded="true" />
-            <element signature="e#4180#4181#0" expanded="true" />
-            <element signature="e#4213#4214#0" expanded="true" />
-            <element signature="e#4255#4256#0" expanded="true" />
-            <element signature="e#4288#4289#0" expanded="true" />
-            <element signature="e#4334#4335#0" expanded="true" />
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4416#4417#0" expanded="true" />
-            <element signature="e#4452#4453#0" expanded="true" />
-            <element signature="e#4494#4495#0" expanded="true" />
-            <element signature="e#4548#4549#0" expanded="true" />
-            <element signature="e#4581#4582#0" expanded="true" />
-            <element signature="e#4613#4614#0" expanded="true" />
-            <element signature="e#4648#4649#0" expanded="true" />
-            <element signature="e#4674#4675#0" expanded="true" />
-            <element signature="e#4806#4813#0" expanded="true" />
+            <element signature="e#4539#4540#0" expanded="true" />
+            <element signature="e#4571#4572#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -808,58 +808,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
-          <folding>
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/Steg2.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/awt/Container.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="498">
+          <caret line="1616" column="16" lean-forward="false" selection-start-line="1616" selection-start-column="16" selection-end-line="1616" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/CrystalModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="138" column="5" lean-forward="false" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+        <state relative-caret-position="499">
+          <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3454#3455#0" expanded="true" />
-            <element signature="e#3523#3524#0" expanded="true" />
-            <element signature="e#4180#4181#0" expanded="true" />
-            <element signature="e#4213#4214#0" expanded="true" />
-            <element signature="e#4255#4256#0" expanded="true" />
-            <element signature="e#4288#4289#0" expanded="true" />
-            <element signature="e#4334#4335#0" expanded="true" />
-            <element signature="e#4370#4371#0" expanded="true" />
-            <element signature="e#4416#4417#0" expanded="true" />
-            <element signature="e#4452#4453#0" expanded="true" />
-            <element signature="e#4494#4495#0" expanded="true" />
-            <element signature="e#4548#4549#0" expanded="true" />
-            <element signature="e#4581#4582#0" expanded="true" />
-            <element signature="e#4613#4614#0" expanded="true" />
-            <element signature="e#4648#4649#0" expanded="true" />
-            <element signature="e#4674#4675#0" expanded="true" />
-            <element signature="e#4806#4813#0" expanded="true" />
+            <element signature="e#4539#4540#0" expanded="true" />
+            <element signature="e#4571#4572#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/view/CrystalView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="-1031">
+          <caret line="51" column="152" lean-forward="false" selection-start-line="51" selection-start-column="152" selection-end-line="51" selection-end-column="152" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#2875#2876#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#4093#4094#0" expanded="true" />
+            <element signature="e#4154#4155#0" expanded="true" />
+            <element signature="e#5046#5047#0" expanded="true" />
+            <element signature="e#5071#5072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Steg2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#882#1089#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
           </folding>
         </state>
       </provider>

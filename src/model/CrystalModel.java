@@ -1,15 +1,14 @@
 package model;
 
-import javafx.beans.InvalidationListener;
-import javafx.beans.Observable;
 
 import java.awt.*;
 import java.util.ArrayList;
+import java.util.Observable;
 
 /**
  * Created by sebastian on 2017-01-29.
  */
-public class CrystalModel implements Observable{
+public class CrystalModel extends Observable{
 
     private boolean[][] matrix; //matrix representing bath coordinates, true for occupied, false for empty
 
@@ -24,6 +23,8 @@ public class CrystalModel implements Observable{
     private boolean debug = false; //if true, dubug info will be printed in console
 
     private int pause; //time to pause between steps //todo: make graphics and model asynchronous so pauses work properly, might work right away with swing.
+
+
 
     public CrystalModel(int bathWidth) {
         if (bathWidth % 2 == 0) bathWidth++;//makes the width odd to ensure existance of center point
@@ -60,6 +61,8 @@ public class CrystalModel implements Observable{
             if (anyNeighbours(ion.x, ion.y)) {
                 addIonToMatrix(ion.x, ion.y);
                 print("Ion added to crystal");
+                setChanged();
+                notifyObservers();
                 return !outsideCircle(center, ion.x, ion.y);
             }
             if (outsideCircle(center, ion.x, ion.y)) {
@@ -96,7 +99,6 @@ public class CrystalModel implements Observable{
     }
 
     @Override
-    //fixme: skriv ut en textbaserad representation av badet
     public String toString() {
         return arrayToString(matrix);
     }
@@ -172,15 +174,5 @@ public class CrystalModel implements Observable{
         }
 
         return aString;
-    }
-
-    @Override
-    public void addListener(InvalidationListener listener) {
-
-    }
-
-    @Override
-    public void removeListener(InvalidationListener listener) {
-
     }
 }
